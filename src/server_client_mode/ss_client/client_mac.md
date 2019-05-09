@@ -154,18 +154,4 @@ https://www.youtube.com
 
 ![ShadowsocksX-NG中勾选开机启动](../../assets/img/shadowsocksx_ng_select_run_on_boot.png)
 
-### 把当前所使用的ss服务器信息分享给别人
 
-如果想要把当前你正在使用的ss的服务器的（地址，端口，密码，加密方式等）配置信息分享给别人，则可以：
-
-选择`显示当前服务器的二维码`
-
-![ShadowsocksX-NG显示当前服务器的二维码](../../assets/img/shadowsocksx_ng_show_current_server_qrcode.png)
-
-即可显示出当前服务器的二维码：
-
-![ShadowsocksX-NG弹框显示二维码](../../assets/img/shadowsocksx_ng_popup_show_qrcode.png)
-
-供其他人使用。
-
-比如：别人用手机中的ss客户端去扫码添加该ss服务器到自己的客户端中。
