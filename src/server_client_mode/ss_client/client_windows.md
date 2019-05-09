@@ -8,7 +8,7 @@ Winddows中的ss客户端，有多种，常用的是：
 
 去github官网 :
 
-[Releases · shadowsocks/shadowsocks-windows · GitHub](https://github.com/shadowsocks/shadowsocks-windows/releases)
+[GitHub上下载（可能访问不了）](https://github.com/shadowsocks/shadowsocks-windows/releases)
 或
 [科学上网下载](https://kxsw.cf/guide/win.zip)
 
