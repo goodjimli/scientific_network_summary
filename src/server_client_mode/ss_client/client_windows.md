@@ -19,6 +19,6 @@ Winddows中的ss客户端，有多种，常用的是：
 
 ### 使用Win版Shadowsocks.exe实现科学上网
 
-Win版Shadowsocks的功能，其实和后面要介绍的**Mac版ss客户端：ShadowsocksX-NG**的用法，基本上是一样的。所以可以具体用法可以参考后面的`mac版本`。
+Win版Shadowsocks的功能，其实和后面要介绍的**Mac版ss客户端：ShadowsocksX-NG**的用法，基本上是一样的。所以可以具体用法可以参考后面的`mac版本`中二维码添加和手动添加，以及使用方法。
 [mac科学上网](./client_mac.md)
 
