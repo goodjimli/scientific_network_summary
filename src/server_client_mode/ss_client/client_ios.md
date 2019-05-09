@@ -1,13 +1,5 @@
 # iOS中的Shadowsocks客户端
 
-iOS中的Shadowsocks客户端，也有多种。
-
-可以参考Shadowsocks官网中：[Shadowsocks - Clients](https://shadowsocks.org/en/download/clients.html)介绍的：
-
-* Wingy：
-  * [App Store](https://itunes.apple.com/us/app/wingy-http-s-socks5-proxy-utility/id1178584911)
-* MobileShadowSocks
-  * [Big Boss](http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks)
 
 
 ## 第三方助手安装（推荐）
@@ -70,7 +62,7 @@ iOS中的Shadowsocks客户端，也有多种。
 
 参考 `安卓` 的使用方法
 
-* 通过 二维码扫描 ，添加服务器
+* 通过 二维码扫描 ，添加服务器**推荐**
  * 二维码 在网站登录后 **我的账号**页面可以获取
 * 通过 手动配置 ，添加服务器
  * 配置信息，在网站登录后 **我的账号**页面可以获取
