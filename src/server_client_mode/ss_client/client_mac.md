@@ -83,9 +83,7 @@ Shadowsocks-NG，点击以启动：
 
 前提是已经有了对应的服务器的二维码
 
-对于之前去[shadowsocks.to](https://portal.shadowsocks.to/)去购买了ss服务后，可以通过后台管理页面中找到对应二维码。
 
-此处去登录shadowsocks.to的后台管理页面，点击二维码：
 
 ![点击ss的服务的二维码](../../assets/img/click_ss_single_server_to_show_qrcode.png)
 
