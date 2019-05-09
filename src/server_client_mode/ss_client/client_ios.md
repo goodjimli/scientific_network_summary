@@ -58,12 +58,6 @@ iOS中的Shadowsocks客户端，也有多种。
 
 所以，虽然AppStore可以自动帮你切换地区，但是如果你的苹果账号AppleID不是美国的，还是无法下载此处正宗美国版的shadowrocket。还是需要美国的AppleID才可以下载和安装。
 
-## iOS的ss客户端：`Potatso`/`Potatso Lite`
-
-国内账号的AppleID登录后的国内AppStore搜索不到
-
-估计是被国家和谐了，不允许上架到国内的AppStore市场
-
 ### 如何才能从iPhone的AppStore中搜索并下载到Potatso？
 
 网友提供了一些方式，供参考：
@@ -72,3 +66,15 @@ iOS中的Shadowsocks客户端，也有多种。
 * 去淘宝买个其他国家appple id，然后再去美国的app store就可以下载了Potatso
   * ![AppStore搜出Potatso Lite](../../assets/img/app_store_search_out_potatso_lite.jpg)
 * 见过别人用`iPhone`+`自己的国外的appleid`，在AppStore上可以搜到potatso，然后就可以下载并安装，然后扫描添加服务器配置后，就可以正常翻墙了
+### 如何使用
+
+参考 `安卓` 的使用方法
+
+* 通过 二维码扫描 ，添加服务器
+ * 二维码 在网站登录后 **我的账号**页面可以获取
+* 通过 手动配置 ，添加服务器
+ * 配置信息，在网站登录后 **我的账号**页面可以获取
+ 
+![ios](../../assets/img/ios.png)
+
+
