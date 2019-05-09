@@ -81,11 +81,10 @@ Shadowsocks-NG，点击以启动：
 
 ### 通过扫描二维码添加
 
-前提是已经有了对应的服务器的二维码
+ 
+#### 可以在网站【我的账号】中找到二维码
 
 
-
-![点击ss的服务的二维码](../../assets/img/click_ss_single_server_to_show_qrcode.png)
 
 会弹出二维码：
 
