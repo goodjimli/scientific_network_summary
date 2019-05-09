@@ -7,7 +7,6 @@
 * [Shadowsocks介绍](shadowsocks_intro/README.md)
   * [Shadowsocks是什么](shadowsocks_intro/what_is_ss.md)
 * [客户端模式](server_client_mode/README.md)
-    * [ss客户端的通用逻辑](server_client_mode/ss_client/client_common_logic.md)
     * [Windows的ss客户端](server_client_mode/ss_client/client_windows.md)
     * [Mac的ss客户端](server_client_mode/ss_client/client_mac.md)
     * [Android的ss客户端](server_client_mode/ss_client/client_android.md)
