@@ -9,8 +9,9 @@ Winddows中的ss客户端，有多种，常用的是：
 去github官网 :
 
 [Releases · shadowsocks/shadowsocks-windows · GitHub](https://github.com/shadowsocks/shadowsocks-windows/releases)
+或
+[科学上网下载](https://kxsw.cf/guide/win.zip)
 
-点击下载最新的Windows的客户端：
 
 ![Github中下载Shadowsocks](../../assets/img/github_download_shadowsocks_win.jpg)
 
