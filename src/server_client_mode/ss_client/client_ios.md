@@ -10,7 +10,7 @@ iOS中的Shadowsocks客户端，也有多种。
   * [Big Boss](http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks)
 
 
-## iOS的ss客户端：`shadowrocket`
+## 第三方助手安装（推荐）
 * 通过第三方助手安装
   * 下载爱思助手到电脑。
   * 通过 [科学上网下载](https://www.kxsw.cf/guide/ss.ipa)   下载APP到电脑
@@ -20,8 +20,8 @@ iOS中的Shadowsocks客户端，也有多种。
 
 
 
-## 评分低的`Wang Haiyan`的shadowrocket
-
+## 通过appStore安装（不推荐）
+**国内账号的AppleID，极大可能搜索不到**
 国内账号的AppleID登录后的国内AppStore可以搜索到
 
 ![国内AppStore可以搜到shadowrocket](../../assets/img/china_appstore_can_search_shadowrocket.jpg)
@@ -40,7 +40,7 @@ iOS中的Shadowsocks客户端，也有多种。
 
 > **项目不可用**
 >
-> 中国店面目前没有您想要的项目。不过此项目在美国店面提供。点一下"更改店面"查看此项目。
+> **中国**店面目前没有您想要的项目。不过此项目在美国店面提供。点一下"更改店面"查看此项目。
 
 ![AppStore项目不可用](../../assets/img/appstore_item_not_available.png)
 
