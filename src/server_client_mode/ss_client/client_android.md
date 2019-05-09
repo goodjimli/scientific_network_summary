@@ -53,7 +53,7 @@
 > 
 > ![安卓客户端从二维码添加配置](../../assets/img/android_ss_client_add_config_from_qrcode.png)
 > 
-> 竟然会出现提示：`更新Google Play服务，您必须先更新Google Play服务，然后才能运行shadowsocks`
+> 竟然会出现提示：`更新Google Play服务，您必须先更新Google Play服务，然后才能运行shadowsocks，从科学上网网站下载的不需要更新google 服务`
 > 
 > ![扫码提示更新Google Play服务](../../assets/img/scan_code_notice_update_google_play_service.png)
 >
