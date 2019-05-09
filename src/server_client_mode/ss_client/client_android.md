@@ -1,14 +1,11 @@
 # Android中的Shadowsocks客户端
 
-> #### info:: 详细过程见单独帖子
->
-> 更多细节详见：[【记录】安装和使用支持chacha20-ietf-poly1305的Android的shadowsocks客户端 – 在路上](https://www.crifan.com/install_and_use_android_shadowsocks_client_support_chacha20_ietf_poly1305/)
->
-> 下面把关键步骤整理如下供参考。
 
 ## 下载和安装
 
-两种方式：
+三种方式：
+* 科学上网下载安装
+ * 去[下载地址](https://kxsw.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
 
 * 自己去`github`下载`apk`安装包后自己安装
   * 去[Releases · shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases) 可以下载到apk，比如：[shadowsocks--universal-4.6.5.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks--universal-4.6.5.apk)：
@@ -22,9 +19,6 @@
 
 打开ss客户端，然后去添加服务器节点的配置，主要是去配置服务器的`地址`，`端口`，`密码`，`加密方式`等内容。
 
-> #### info:: 对ss的配置不熟悉的可参考`通用的逻辑`
->
-> 各种ss的客户端的配置的逻辑都是一样的，如果不清楚可去参考：[ss客户端的通用逻辑 · 科学上网相关知识总结](https://book.crifan.com/books/scientific_network_summary/website/server_client_mode/ss_client/client_common_logic.html)
 
 此处点击右上角的加号`➕`：
 
@@ -50,7 +44,7 @@
 
 ### 扫码添加配置
 
-在扫描之前，先要有二维码可以扫，比如之前提到的[购买 shadowsocks.nu 的ss服务](https://book.crifan.com/books/scientific_network_summary/website/server_client_mode/ss_server/buy_ss_service/shadowsocks_la.html)，购买后去后台配置页面中可以找到二维码。
+
 
 ![shadowsocks.nu后台配置二维码](../../assets/img/shadowsocks_nu_admin_config_qrcode.png)
 
