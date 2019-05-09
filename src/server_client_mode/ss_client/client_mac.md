@@ -21,7 +21,7 @@ Mac下的Shadowsocks客户端也有不止一个。
 ### 下载和安装ShadowsocksX-NG
 
 从Github中下载：[官网（可能访问不了）](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-从科学上网下载：[官网（可能访问不了）](https://kxsw.cf/guide/mac.dmg)
+或者：[科学上网下载](https://kxsw.cf/guide/mac.dmg)
 ![GitHub中下载ShadowsocksX-NG](../../assets/img/github_download_shadowsocksx_ng.jpg)
 
 解压下载得到的`ShadowsocksX-NG.1.7.0.zip`得到app文件：`ShadowsocksX-NG.app`
