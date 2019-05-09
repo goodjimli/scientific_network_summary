@@ -4,8 +4,7 @@
 ## 下载和安装
 
 三种方式：
-* 科学上网下载安装
- * 去[下载地址](https://kxsw.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
+ * 去[科学上网下载安装](https://kxsw.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
 
 * 自己去`github`下载`apk`安装包后自己安装
   * 去[Releases · shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases) 可以下载到apk，比如：[shadowsocks--universal-4.6.5.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks--universal-4.6.5.apk)：
