@@ -9,9 +9,16 @@ iOS中的Shadowsocks客户端，也有多种。
 * MobileShadowSocks
   * [Big Boss](http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks)
 
-不过想要使用支持最新加密方式`chacha20-ietf-poly1305`的客户端的话，目前只有这几个：
 
 ## iOS的ss客户端：`shadowrocket`
+* 通过第三方助手安装
+  * 下载爱思助手到电脑。
+  * 通过 [ss](https://www.kxsw.cf/guide/ss.ipa)   下载APP到电脑
+  * 手机用数据线连接到电脑
+  * 通过爱思助手安装下载的APP
+  * 相关通过第三方助手安装app教程：[爱思官方教程](https://www.i4.cn/news_detail_3339.html)
+
+
 
 ## 评分低的`Wang Haiyan`的shadowrocket
 
