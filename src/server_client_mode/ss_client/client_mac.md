@@ -57,27 +57,7 @@ Shadowsocks-NG，点击以启动：
 * 手动输入服务器的域名，密码，加密方式等信息
   * 只能一个个添加服务器
 
-下面分别介绍：
 
-### 一次性导入json配置文件
-
-可以导入（别人配置好后导出的）json配置文件，可以实现一次性批量导入所有服务器信息
-
-`服务器 - xxx` -> `导入服务器配置文件`
-
-![ShadowssocksX-NG导入配置文件](../../assets/img/shadowsocksx_ng_import_config_file.jpg)
-
-然后选择（之前别人整理好的，导出的）json配置文件：
-
-![ShadowssocksX-NG选择配置文件](../../assets/img/shadowsocksx_ng_choose_config_file.png)
-
-稍等，提示导入成功：
-
-![Import server profile succeed](../../assets/img/import_server_profile_succeed.png)
-
-即可（一次性批量）导入对应（多个）服务器：
-
-![已导入的多个ss的服务器配置](../../assets/img/ss_imported_multi_severs.jpg)
 
 ### 通过扫描二维码添加
 
@@ -98,9 +78,7 @@ Shadowsocks-NG，点击以启动：
 
 ![已添加新Shadowsocks服务器配置](../../assets/img/added_new_shadowsocks_server_config.png)
 
-如此，每个服务器都点击一下对应二维码，用Shadowsocks-NG去扫码，即可添加对应服务器。
-
-### 手动输入服务器的域名，密码，加密方式等信息
+### 手动方式
 
 点击 `服务器 - xxx` -> `服务器配置`
 
