@@ -1,6 +1,6 @@
 # 科学上网相关知识总结
 
-* [前言](README.md)
+
 * [科学上网介绍](scientific_network_intro/README.md)
   * [什么是科学上网](scientific_network_intro/what.md)
   * [为何要科学上网](scientific_network_intro/why.md)
