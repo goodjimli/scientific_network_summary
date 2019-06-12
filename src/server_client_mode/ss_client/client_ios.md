@@ -2,7 +2,7 @@
 
 
 
-## 第三方助手安装（推荐）
+## 第三方助手安装
 * 通过第三方助手安装
   * 下载爱思助手到电脑。
   * 通过 [科学上网下载](https://www.kxsw.cf/guide/ss.ipa)   下载APP到电脑
@@ -30,7 +30,6 @@
  
  ![ss二维码](../../assets/img/ios-ss-index.PNG)
  
- 开始使用
  
  ![ss二维码](../../assets/img/ios-ss-option.PNG)
  
