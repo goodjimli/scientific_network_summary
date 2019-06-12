@@ -19,8 +19,11 @@
   ![applestore帐号](../../assets/img/applestopre.PNG)
 * 登录提供的美区ID
 * 下载app，扫描二维码
+
  ![ss二维码](../../assets/img/ss-qrcode.png)
+ 
 * 退出美区ID，重新登录你的APPLE ID
+
 * 使用
  
 
