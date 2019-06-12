@@ -26,6 +26,15 @@
 
 * 使用
  
+ 添加服务器，这里的二维码是网站-帐号-右边的二维码
+ 
+ ![ss二维码](../../assets/img/ios-ss-index.PNG)
+ 
+ 开始使用
+ 
+ ![ss二维码](../../assets/img/ios-ss-option.PNG)
+ 
+ 
 
  
 
