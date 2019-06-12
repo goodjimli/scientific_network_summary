@@ -15,12 +15,14 @@
 ## 通过appStore安装
 **需要联系我提供美区的apple ID**
 * 退出你的apple ID 
-  头像退出
+ 
   ![applestore帐号](../../assets/img/applestopre.PNG)
 * 登录提供的美区ID
-* 下载app
+* 下载app，扫描二维码
+ ![ss二维码](../../assets/img/ss-qrcode.png)
 * 退出美区ID，重新登录你的APPLE ID
 * 使用
+ 
 
  
 
