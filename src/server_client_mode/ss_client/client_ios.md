@@ -14,7 +14,9 @@
 
 ## 通过appStore安装
 **需要联系我提供美区的apple ID**
-* 退出你的apple ID （**并不是你icloud 帐号 是apple store 的帐号**）
+* 退出你的apple ID 
+  头像退出
+  ![applestore帐号](../../assets/img/applestopre.PNG)
 * 登录提供的美区ID
 * 下载app
 * 退出美区ID，重新登录你的APPLE ID
