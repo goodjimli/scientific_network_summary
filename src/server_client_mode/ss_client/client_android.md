@@ -7,59 +7,60 @@
  * 去[科学上网下载安装](https://kxsw.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
 
 * 自己去`github`下载`apk`安装包后自己安装
-  * 去[Releases · shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases) 可以下载到apk，比如：[shadowsocks--universal-4.6.5.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks--universal-4.6.5.apk)：
-  * ![github上最新版本的Android的apk](../../assets/img/github_download_ss_android_apk.png)
-  * 然后安装到Android手机中即可：
-  * ![Android手机安装ss客户端](../../assets/img/install_ss_android_apk_universal.png)
+
 * 从应用市场`Google Play`去搜索并安装
   * [Shadowsocks - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 
-## 添加配置
+## 初始安装与二维码扫描配置（推荐）
+ 
+ * 1.返回主页面
+ 	
+ 	打开ss客户端后，会出现如下：
 
-打开ss客户端，然后去添加服务器节点的配置，主要是去配置服务器的`地址`，`端口`，`密码`，`加密方式`等内容。
+ 	![ss客户端返回首页](../../assets/img/ss_client_android_returnindex.jpg)
+
+ 	点击左上角返回首页
+
+ * 2.安装二维码扫描器
+		
+	点击首页上的	`➕`,
+
+	点击`扫描二维码`出现下图：
+	
+	![qrcodeinstall](../../assets/img/ss_client_android_qrcode_install.jpg)
+	
+	点击`确定`，然后选择你的`应用市场`（比如：华为应用市场、豌豆荚等）进行安装二维码扫码器
+
+ 	![huawei](../../assets/img/ss_client_android_huawei.jpg)
+ * 3.扫描二维码
+
+	扫描网站上的`帐号`页面的二维码，然后通过`打开浏览器`打开：
+	
+	![qrcode](../../assets/img/ss_client_android_qrcode.jpg)
+
+	选择刚刚安装的ss客户端：
+
+	![qrcode_finish](../../assets/img/ss_client_android_finish.jpg)
+
+	点击确定。
+
+ * 4.少许配置
+
+ 	删除自带我配置，`左滑`删除 `Android SSR Default`:
+	
+	![default_delete](../../assets/img/ss_client_default_delete.jpg)
+
+	点击我们添加的服务器进去，找到 `功能设置-全局`，改为`绕过局域网及中国大陆地址`:
+	
+	![option_finish](../../assets/img/ss_client_option_finish.jpg)
+
+ * 5.开始使用	
+	
+	点击右上角的 `飞机`,等待几秒你就可以畅游`真正`互联网
 
 
-此处点击右上角的加号`➕`：
 
-![ss客户端右上角加号](../../assets/img/ss_client_top_add_button.png)
-
-会显示出3种方式：
-
-![ss客户端三种方式添加配置](../../assets/img/ss_android_3_method_add_config.png)
-
-* `扫描二维码`：扫描二维码后自动解析并添加配置
-* `从剪贴板导入`：一般是从别处拷贝了对应服务器配置的字符串，然后再来此处粘贴。
-  * 自己很少用到此方式
-* `手动设置`：自动手动填写配置信息
-  * 虽然稍微麻烦点，但是最通用
-
-一般来说，推荐`扫码`添加，因为很方便
-
--》 但是下面会解释此处安卓中由于扫码需要`Google Play`而导致死循环，而不方便扫码
-
--》 所以此处推荐`手动添加`
-
-不过先说说如果要扫码，如何操作：
-
-### 扫码添加配置
-
-
-
-![shadowsocks.nu后台配置二维码](../../assets/img/shadowsocks_nu_admin_config_qrcode.png)
-
-> #### warning:: 安卓扫码添加配置需要更新Google Play服务
->
-> 此处实践发现，安卓端扫码去添加配置：
-> 
-> ![安卓客户端从二维码添加配置](../../assets/img/android_ss_client_add_config_from_qrcode.png)
-> 
-> 竟然会出现提示：`更新Google Play服务，您必须先更新Google Play服务，然后才能运行shadowsocks，从科学上网网站下载的不需要更新google 服务`
-> 
-> ![扫码提示更新Google Play服务](../../assets/img/scan_code_notice_update_google_play_service.png)
->
-> 而`Google Play服务`本身，却又需要翻墙才能更新，而此处就是要去翻墙，导致死循环了，所以此路暂时不通。
-
-### 手动添加配置
+### 手动添加配置（旧版。）
 
 所以此处为了能正常添加配置，建议用`手动设置`的方式去添加ss服务器配置。
 
