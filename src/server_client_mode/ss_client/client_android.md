@@ -4,7 +4,7 @@
 ## 下载和安装
 
 三种方式：
- * 去[科学上网下载安装](https://kxsw.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
+ * 去[科学上网下载安装](https://kxsw2019.cf/guide/ShadowsocksR-3.4.0.8.apk) 可以下载到apk
 
 * 自己去`github`下载`apk`安装包后自己安装
 
